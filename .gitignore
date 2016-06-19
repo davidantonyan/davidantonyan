@@ -1,0 +1,14 @@
+
+.idea/
+davidantonyan/database
+davidantonyan/bootstrap
+davidantonyan/config
+davidantonyan/storage
+davidantonyan/tests
+davidantonyan/vendor
+
+davidantonyan/.env
+davidantonyan/artisan
+davidantonyan/server.php
+
+
